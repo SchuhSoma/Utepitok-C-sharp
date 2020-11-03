@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtepitokTombos", "UtepitokTombos\UtepitokTombos.csproj", "{3D6DAE64-6293-4E47-A8DA-9B0292C2EEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6DAE64-6293-4E47-A8DA-9B0292C2EEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6DAE64-6293-4E47-A8DA-9B0292C2EEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6DAE64-6293-4E47-A8DA-9B0292C2EEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6DAE64-6293-4E47-A8DA-9B0292C2EEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {046DC8CD-0BE6-4F7C-A852-C6DD68860BD6}
+	EndGlobalSection
+EndGlobal
